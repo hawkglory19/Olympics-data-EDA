@@ -1,2 +1,2 @@
-# olympic-data-analysis
+# Olympic Data Analysis
 Deployed project link: https://olympics-data-analysis-pooja.herokuapp.com/
